@@ -64,7 +64,7 @@ The system is built using Object-Oriented Programming principles with the follow
 
 1. Clone repository
 
-git clone https://github.com/yourusername/restaurant_system.git 
+git clone https://github.com/omar2301433/restaurant_system.git 
 
 2. Open project in:
 - IntelliJ IDEA
